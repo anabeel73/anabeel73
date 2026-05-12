@@ -104,13 +104,13 @@ One of my biggest differentiators in 2026 — I've built a **structured agent-ba
 │  🤖 Agent       │  📋 What It Does                  │
 ├─────────────────┼───────────────────────────────────┤
 │  Test Writer    │  Generates Playwright tests from  │
-│                 │  requirements following POM rules  │
+│                 │  requirements following POM rules │
 ├─────────────────┼───────────────────────────────────┤
 │  Locator Fixer  │  Identifies unstable selectors    │
-│                 │  suggests resilient alternatives   │
+│                 │  suggests resilient alternatives  │
 ├─────────────────┼───────────────────────────────────┤
 │  Refactorer     │  Removes duplication, enforces    │
-│                 │  framework standards consistently  │
+│                 │  framework standards consistently │
 └─────────────────┴───────────────────────────────────┘
 
 Result: 2 hours → 30 minutes per test case (75% faster)
